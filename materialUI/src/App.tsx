@@ -1,7 +1,7 @@
 
 import { StyledEngineProvider } from '@mui/material/styles';
-import Demo from './Tutor-001/Demo'
-import { Details } from './Tutor-001/Details';
+import Demo from './Practice/Demo'
+import { Details } from './Practice/Details';
 
 
 
