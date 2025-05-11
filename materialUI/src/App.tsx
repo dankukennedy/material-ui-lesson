@@ -1,6 +1,8 @@
 
 import { StyledEngineProvider } from '@mui/material/styles';
 import Demo from './Tutor-001/Demo'
+import { Details } from './Tutor-001/Details';
+
 
 
 function App() {
@@ -9,6 +11,7 @@ function App() {
     <>
    <StyledEngineProvider injectFirst>
    <Demo />
+   <Details/>
     </StyledEngineProvider>
     </>
   )
